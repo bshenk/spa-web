@@ -1,0 +1,41 @@
+{
+  "ignoreDate": false,
+  "allowedInteractionTypeCodes": [],
+  "allowedActor2TypeCodes": [],
+  "allowedActor1TypeCodes": [],
+  "startEndNowDates": [
+    1293911419906,
+    1356983419906,
+    1325361019906
+  ],
+  "fatalities": [
+    5,
+    250
+  ],
+  "dateRange": [
+    [
+      1997,
+      1
+    ],
+    [
+      2016,
+      3
+    ]
+  ],
+  "allowedCountryCodes": [
+    "NGA"
+  ],
+  "ignoreFatalities": false,
+  "allowedEventTypeCodes": [],
+  "withinGeometry": {},
+  "countOnly": false,
+  "scenarioConfig": {
+    "preview": {
+      "onlyClearDb": true,
+      "agentsPerEvent": 10,
+      "agentsPerFatality": 3,
+      "candidatesPerEvent": 25,
+      "previewDbName": "ERFV3Preview"
+    }
+  }
+}

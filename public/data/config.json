@@ -1,0 +1,14 @@
+{
+	"sources": {
+		"default": "./data/tempData.json",
+		"options": [
+			{ "value": "10.1.88.100", "label": "10.1.88.100" },
+			{ "value": "10.1.88.111", "label": "10.1.88.111" },
+			{ "value": "./data/tempData.json", "label": "Local Data" }
+		]
+	},
+	"ports": {
+		"defaultDataPort": 50900,
+		"defaultCmdPort": 50910
+	}
+}

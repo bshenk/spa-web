@@ -1,0 +1,16 @@
+{
+	"ignoreFatalities": false,
+	"fatalities": [ 5, 250 ],
+	"ignoreDate": false,
+	"startEndNowDates": [
+	"2011-01-01T08:00:00.000Z",
+	"2012-12-31T08:00:00.000Z",
+	"2012-01-01T08:00:00.000Z"
+	],
+	"allowedCountryCodes": [ "NGA" ],
+	"allowedEventTypeCodes": [ 1 ],
+	"allowedActor1TypeCodes": [ 3 ],
+	"allowedActor2TypeCodes": [ 15 ],
+	"allowedInteractionTypeCodes": [ 10 ],
+	"countOnly": false
+}

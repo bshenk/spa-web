@@ -1,0 +1,1 @@
+{"threadCycles":{"EA_NaiveRiskGhostBehavior":471837,"EA_AdvancedRiskGhostBehavior":386968,"EA_OriginGhostBehavior":218142},"nowDate":{"$date":1325376000000},"running":true,"numFutureEvents":149,"numPastEvents":57,"numTotalEvents":206,"processParams":{"importanceOfRoadsOrigin":0.9,"importanceOfRoadsERF":0.9,"PreferredAttackDistance":500}}
